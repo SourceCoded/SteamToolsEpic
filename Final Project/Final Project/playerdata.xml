@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE response>
+<response>
+	<players>
+		<player>
+			<steamid>76561198078356970</steamid>
+			<communityvisibilitystate>3</communityvisibilitystate>
+			<profilestate>1</profilestate>
+			<personaname>=MBLM= Metherul</personaname>
+			<lastlogoff>1436933113</lastlogoff>
+			<commentpermission>1</commentpermission>
+			<profileurl>http://steamcommunity.com/id/metherul/</profileurl>
+			<avatar>https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/77/773bb3ded8d8e6959e2b878e1278b96b4f575f96.jpg</avatar>
+			<avatarmedium>https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/77/773bb3ded8d8e6959e2b878e1278b96b4f575f96_medium.jpg</avatarmedium>
+			<avatarfull>https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/77/773bb3ded8d8e6959e2b878e1278b96b4f575f96_full.jpg</avatarfull>
+			<personastate>0</personastate>
+			<realname>metherul</realname>
+			<primaryclanid>103582791436721871</primaryclanid>
+			<timecreated>1355508899</timecreated>
+			<personastateflags>0</personastateflags>
+			<loccountrycode>US</loccountrycode>
+		</player>
+	</players>
+</response>
